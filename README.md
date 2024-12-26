@@ -1,7 +1,7 @@
 # Mysql-backup
 
 
-### Repositorio para fazer o backup de varias bases de dados dentro de uma unica maquina.Necessario somente definir as variaveis dentro do propri código
+### Código escrito em GO para fazer o backup de varias bases de dados dentro de uma unica maquina.Necessario somente definir as variaveis dentro do proprio código
 
 ```sh
 	user := ""     // Usuário do MySQL
